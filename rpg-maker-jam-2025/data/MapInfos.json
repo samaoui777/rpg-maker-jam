@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":728,"scrollY":403.1111111111111},
 {"id":2,"expanded":true,"name":"intro_gate","order":3,"parentId":0,"scrollX":655.2,"scrollY":362.8},
-{"id":3,"expanded":true,"name":"intro_castle","order":2,"parentId":0,"scrollX":648.8,"scrollY":557.2},
-{"id":4,"expanded":true,"name":"forest_1","order":4,"parentId":0,"scrollX":655.2,"scrollY":362.8},
-{"id":5,"expanded":false,"name":"forest_1_big","order":5,"parentId":4,"scrollX":1622,"scrollY":1207}
+{"id":3,"expanded":true,"name":"intro_castle","order":2,"parentId":0,"scrollX":893.4545454545455,"scrollY":494.72727272727275},
+{"id":4,"expanded":true,"name":"forest_1","order":4,"parentId":0,"scrollX":728,"scrollY":403.1111111111111},
+{"id":5,"expanded":false,"name":"forest_1_big","order":5,"parentId":4,"scrollX":1489.0909090909092,"scrollY":1341.2727272727273}
 ]
