@@ -2,7 +2,7 @@
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"%fighter_full","classId":1,"equips":[18,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Fighter","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor1_4","characterIndex":0,"characterName":"%magus_full","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Magus","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Princess","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_4","characterIndex":0,"characterName":"%princess_full","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Princess","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$fighter_sheet_v1","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"a","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"Actor1_4","characterIndex":0,"characterName":"$magus_sheet_v1","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"b","nickname":"","note":"","profile":""},
